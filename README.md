@@ -1,16 +1,43 @@
-## Hi there 👋
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/1f4fbfa9-fc0c-4fea-a052-2ee0bdb6e43b" alt="7V7"/>
+</p>
 
-<!--
-**Lars-db/Lars-db** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="center"> 👋 Hello, I'm Lars!</h2>
+<h3 align="center"> I'm a Test Automation Engineer with a big passion for technical challenges.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center"> I have worked at different organisations </h4>
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/b1130845-a2b0-41bf-a410-fd607f7e3c99" width="100" height="auto" alt="Logo 1"/>
+    &nbsp;
+    <img src="https://github.com/user-attachments/assets/5b9de25f-a040-44db-897c-6e33c67a57e0" width="100" height="auto" alt="Logo 2"/>
+    &nbsp;
+    <img src="https://github.com/user-attachments/assets/72b3b3ee-96cd-4a5c-84b4-0d2a24d0b74f" width="100" height="auto" alt="Logo 3"/>
+    &nbsp;
+    <img src="https://github.com/user-attachments/assets/e0f19fa5-d0cb-4ab7-a861-35f0f604920d" width="100" height="auto" alt="Logo 4"/>
+
+</p>
+
+
+
+<h2 align="center"> 🛠️ Technologies & Tools</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=cypress,docker,figma,git,github,gitlab&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gherkin,grafana,html,idea,java,js&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jenkins,kafka,kali,kubernetes,linux,md&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=maven,mysql,notion,npm,postgres,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,py,regex,rider,spring,stackoverflow&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=selenium,ubuntu,vscode,windows,visualstudio,ts&perline=6)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,apple,azure,bash,cs,css" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,apple,azure,bash,cs,css" />
+  </a>
+</p>
+
+
+
+
+
