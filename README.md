@@ -23,21 +23,39 @@
 
 <h2 align="center"> 🛠️ Technologies & Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cypress,docker,figma,git,github,gitlab&perline=6)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=gherkin,grafana,html,idea,java,js&perline=6)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=jenkins,kafka,kali,kubernetes,linux,md&perline=6)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=maven,mysql,notion,npm,postgres,postman&perline=6)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=pycharm,py,regex,rider,spring,stackoverflow&perline=6)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=selenium,ubuntu,vscode,windows,visualstudio,ts&perline=6)](https://skillicons.dev)
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,apple,azure,bash,cs,css" />
-    <img src="https://skillicons.dev/icons?i=androidstudio,apple,azure,bash,cs,css" />
+    <img src="https://skillicons.dev/icons?i=maven,jenkins,gherkin,java,postgres,postman,selenium" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pycharm,py,regex,rider,spring,idea,kafka" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,windows,visualstudio,ts,kubernetes,linux" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,apple,azure,bash,cs,css,md" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cypress,docker,figma,git,github,gitlab,notion" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=grafana,html,stackoverflow,npm,js,mysql,kali" />
+  </a>
+</p>
 
