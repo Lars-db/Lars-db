@@ -24,12 +24,24 @@
 <h2 align="center"> 🛠️ Technologies & Tools</h2>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/b673a5ea-2b24-47bc-8fb6-dff43ddbb7c4" height="125" width="125" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/bc8bad54-3c04-48a2-8ad1-df2c9cf338dc" height="125" width="125"/>
+  <img src="https://github.com/user-attachments/assets/362db0fc-0bd6-46b3-9299-53ce7e7e144f" height="125" width="125"/>
+</p>
+
+
+
+
+
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=maven,jenkins,gherkin,java,postgres,postman,selenium" />
   </a>
 </p>
 
 <p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pycharm,py,regex,rider,spring,idea,kafka" />
   </a>
