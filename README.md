@@ -46,7 +46,7 @@
   <img src="https://github.com/user-attachments/assets/a245dd87-7d45-4e93-834f-11178f6d4b8f" height="50" width="50"/>
   <img src="https://github.com/user-attachments/assets/901f0dca-3d6b-4c52-b20c-f6d80a0bd982" height="50" width="50"/>
   <img src="https://github.com/user-attachments/assets/a92f85ba-26d0-42fe-b01f-13883f394eed" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/41bd089b-8dd6-4dc5-b608-e0f5925ca511" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/5587fa40-6e0f-45a5-a484-08922468fc2c" height="50" width="50"/>
 </p>
 
 
@@ -64,6 +64,7 @@
 
 
 <p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pycharm,py,regex,rider,spring,idea,kafka"/>
   </a>
