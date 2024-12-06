@@ -57,22 +57,43 @@
   <img src="https://github.com/user-attachments/assets/233f28b2-d185-446f-987c-9830f34eca58" height="50" width="50"/>
   <img src="https://github.com/user-attachments/assets/aea29432-c329-4c2e-91d7-8b2534c3146d" height="50" width="50"/>
   <img src="https://github.com/user-attachments/assets/a62b59a8-7e31-461d-ad76-8806bab01486" height="50" width="50"/>
-</p>
 
+  <img src="https://github.com/user-attachments/assets/8411dfb9-138b-4bed-a22a-e105dd6c8d97" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/f73fc168-3268-4df7-b4c4-905e4311328a" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/a146e360-fcbe-46e8-9f7a-33dbe6177c01" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/e0d99065-64e4-4d7e-9d2a-b8bf190a3020" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/d136d24e-1987-4720-8cc3-d8ca1070969f" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/23afd22b-443a-48b5-a07f-b687b83c2bfb" height="50" width="50"/>
 
+  <img src="https://github.com/user-attachments/assets/2c114375-4148-4973-b633-20287094e6fd" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/a70ba4b0-bc6b-48b4-be1b-53de1cf03e94" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/12cd6caa-bdb6-409b-bbf0-a3622224e178" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/1f49f46b-282f-4b9f-95c6-885dbc69e95c" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/3b217280-482c-428f-a467-2f6ccf7723f4" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/54f27eab-699f-4e71-b946-4f701f8b454f" height="50" width="50"/>
 
+  <img src="https://github.com/user-attachments/assets/877c2139-7b18-4a10-b719-5c01522e9fea" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/bedde27a-1f6b-42e5-9412-9214bd092ac1" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/dd30b96b-9fc5-4a82-b1a7-b8674b57a03b" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/53fbb76e-a531-4166-b0da-d8ba9ca39fe0" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/2e5f4338-0a6f-4ee5-a0fa-da98b0e0cd09" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/03b38625-49c6-4cc3-b6de-f89001ced16a" height="50" width="50"/>
 
+  <img src="https://github.com/user-attachments/assets/2a6ce627-d270-4c7c-8f39-5fa1b361a4c6" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/5cb20ddc-f3f0-4b05-8c90-b5982b334271" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/74526d15-626e-469a-bd24-36a7901a6a96" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/0c3f57d8-dd95-4591-816a-7a3b46a4873b" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/0355a06c-173f-45d0-8459-020b20266c0d" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/f900bfbd-8f68-4a10-aae6-4abc0bb401d4" height="50" width="50"/>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cypress,figma,git,github,gitlab,notion,maven,jenkins,postgres"/>
-  </a>
-</p>
+  <img src="https://github.com/user-attachments/assets/60a215ea-6783-40a0-880c-c973a32daa21" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/84de714b-efe5-47fc-aa52-7d54e54edf57" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/78a669aa-2f20-4865-abec-2b1feff61d9a" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/a2bfd232-f88d-49f7-8ca8-946746058d73" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/b0f1a83c-4bb7-4b37-a5cb-d7616c981de5" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/0ee05b5a-b4d8-47a1-8fed-e29a9d1241c6" height="50" width="50"/>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=grafana,stackoverflow,npm,mysql,kali,androidstudio,apple,azure" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/d840faed-6bac-4ff7-abf4-68cf5b1c4a7e" height="50" width="50"/>
 </p>
 
 
@@ -81,4 +102,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+
+
+
 
