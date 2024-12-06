@@ -32,21 +32,21 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5bd33eb8-ce96-4e4a-b0b2-7549962444e6" height="40" width="40" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/e5b4239b-12b3-4e10-8694-fe4869398a0a" height="40" width="40"/>
-  <img src="https://github.com/user-attachments/assets/87ba52df-af41-4c08-a8b0-e9930a9d6956" height="40" width="40"/>
-  <img src="https://github.com/user-attachments/assets/404f6340-2519-4d22-b398-6835839461d4" height="40" width="40"/>
-  <img src="https://github.com/user-attachments/assets/dc4ad6a1-6a47-41e5-a14e-96c690de8aeb" height="40" width="40"/>
-  <img src="https://github.com/user-attachments/assets/a3be32a9-7a21-4726-a059-182ce14135a9" height="40" width="40"/>
+  <img src="https://github.com/user-attachments/assets/5bd33eb8-ce96-4e4a-b0b2-7549962444e6" height="45" width="45" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/e5b4239b-12b3-4e10-8694-fe4869398a0a" height="45" width="45"/>
+  <img src="https://github.com/user-attachments/assets/a9ed861f-374c-4db0-833a-4a5cc49913ed" height="45" width="45"/>
+  <img src="https://github.com/user-attachments/assets/a0dcd9f7-7fbe-490c-bb99-72e0aac55e6d" height="45" width="45"/>
+  <img src="https://github.com/user-attachments/assets/0a9dac96-6ec3-41a9-9142-cfed6c69975f" height="45" width="45"/>
+  <img src="https://github.com/user-attachments/assets/82961f79-ddeb-424b-b862-b705c296339c" height="45" width="45"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0929f3a8-8a2a-48ac-b4a0-9168e62eac90" height="40" width="40" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/956a522b-24b6-4691-a9c7-05720eb766f0" height="40" width="40"/>
-  <img src="https://github.com/user-attachments/assets/a245dd87-7d45-4e93-834f-11178f6d4b8f" height="40" width="40"/>
-  <img src="https://github.com/user-attachments/assets/901f0dca-3d6b-4c52-b20c-f6d80a0bd982" height="40" width="40"/>
-  <img src="https://github.com/user-attachments/assets/a92f85ba-26d0-42fe-b01f-13883f394eed" height="40" width="40"/>
-  <img src="https://github.com/user-attachments/assets/42bcf4b2-13dd-44e2-a7b9-ac49822e7719" height="40" width="40"/>
+  <img src="https://github.com/user-attachments/assets/3ced75e7-95d1-4452-b450-f91b9d3c9931" height="50" width="50" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/930c67d2-01c3-4a7b-b9f2-e8fe977128af" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/aa3f7177-1a0c-4ad8-9104-7fa576b07d81" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/0c3e7b77-4fb6-4493-8c96-a20272897f8b" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/a92f85ba-26d0-42fe-b01f-13883f394eed" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/42bcf4b2-13dd-44e2-a7b9-ac49822e7719" height="50" width="50"/>
 </p>
 
 
@@ -55,45 +55,25 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=maven,jenkins,gherkin,java,postgres,postman,selenium" />
-  </a>
-
-
-
-
-
-<p align="center">
-
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm,py,regex,rider,spring,idea,kafka"/>
+    <img src="https://skillicons.dev/icons?i=pycharm,regex,rider,spring,idea,kafka"/>
   </a>
 </p>
-
-
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,windows,visualstudio,ts,kubernetes,linux" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,windows,visualstudio,kubernetes,linux" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,apple,azure,bash,cs,css,md" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cypress,docker,figma,git,github,gitlab,notion"
+    <img src="https://skillicons.dev/icons?i=cypress,docker,figma,git,github,gitlab,notion,maven,jenkins,postgres"
  />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=grafana,html,stackoverflow,npm,js,mysql,kali" />
+    <img src="https://skillicons.dev/icons?i=grafana,stackoverflow,npm,mysql,kali,androidstudio,apple,azure" />
   </a>
 </p>
 
