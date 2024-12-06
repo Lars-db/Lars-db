@@ -23,7 +23,7 @@
 <h2 align="center"> 🛠️ Technologies & Tools</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ed86c6e1-5b1e-4bb1-9ea1-5f144236c55d" height="40" width="40" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/15ab100f-74b6-4e50-b475-cdc7136b3fab" height="40" width="40" style="margin-right: 10px;"/>
   <img src="https://github.com/user-attachments/assets/bc8bad54-3c04-48a2-8ad1-df2c9cf338dc" height="40" width="40"/>
   <img src="https://github.com/user-attachments/assets/362db0fc-0bd6-46b3-9299-53ce7e7e144f" height="40" width="40"/>
   <img src="https://github.com/user-attachments/assets/8e15d930-b190-4369-b490-334ce822bb30" height="40" width="40"/>
@@ -46,7 +46,7 @@
   <img src="https://github.com/user-attachments/assets/a245dd87-7d45-4e93-834f-11178f6d4b8f" height="40" width="40"/>
   <img src="https://github.com/user-attachments/assets/901f0dca-3d6b-4c52-b20c-f6d80a0bd982" height="40" width="40"/>
   <img src="https://github.com/user-attachments/assets/a92f85ba-26d0-42fe-b01f-13883f394eed" height="40" width="40"/>
-  <img src="https://github.com/user-attachments/assets/d4d6ea30-9f6e-4a69-b888-5385a56b7678" height="40" width="40"/>
+  <img src="https://github.com/user-attachments/assets/42bcf4b2-13dd-44e2-a7b9-ac49822e7719" height="40" width="40"/>
 </p>
 
 
@@ -59,6 +59,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=maven,jenkins,gherkin,java,postgres,postman,selenium" />
   </a>
+
 
 
 
