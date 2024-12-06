@@ -23,32 +23,31 @@
 <h2 align="center"> 🛠️ Technologies & Tools</h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ed86c6e1-5b1e-4bb1-9ea1-5f144236c55d" height="50" width="50" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/bc8bad54-3c04-48a2-8ad1-df2c9cf338dc" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/362db0fc-0bd6-46b3-9299-53ce7e7e144f" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/8e15d930-b190-4369-b490-334ce822bb30" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/2222d22d-c951-4a89-aa1f-34beb71ff7b4" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/f0f20b63-98e5-447b-9d4d-b64b90639c61" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/ed86c6e1-5b1e-4bb1-9ea1-5f144236c55d" height="40" width="40" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/bc8bad54-3c04-48a2-8ad1-df2c9cf338dc" height="40" width="40"/>
+  <img src="https://github.com/user-attachments/assets/362db0fc-0bd6-46b3-9299-53ce7e7e144f" height="40" width="40"/>
+  <img src="https://github.com/user-attachments/assets/8e15d930-b190-4369-b490-334ce822bb30" height="40" width="40"/>
+  <img src="https://github.com/user-attachments/assets/2222d22d-c951-4a89-aa1f-34beb71ff7b4" height="40" width="40"/>
+  <img src="https://github.com/user-attachments/assets/f0f20b63-98e5-447b-9d4d-b64b90639c61" height="40" width="40"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/64ff3e7b-3519-470d-9c53-c6dd939d44fc" height="50" width="50" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/055f80bf-5533-4044-92f0-2bf7259a7c18" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/87ba52df-af41-4c08-a8b0-e9930a9d6956" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/404f6340-2519-4d22-b398-6835839461d4" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/dc4ad6a1-6a47-41e5-a14e-96c690de8aeb" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/a3be32a9-7a21-4726-a059-182ce14135a9" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/64ff3e7b-3519-470d-9c53-c6dd939d44fc" height="40" width="40" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/055f80bf-5533-4044-92f0-2bf7259a7c18" height="40" width="40"/>
+  <img src="https://github.com/user-attachments/assets/87ba52df-af41-4c08-a8b0-e9930a9d6956" height="40" width="40"/>
+  <img src="https://github.com/user-attachments/assets/404f6340-2519-4d22-b398-6835839461d4" height="40" width="40"/>
+  <img src="https://github.com/user-attachments/assets/dc4ad6a1-6a47-41e5-a14e-96c690de8aeb" height="40" width="40"/>
+  <img src="https://github.com/user-attachments/assets/a3be32a9-7a21-4726-a059-182ce14135a9" height="40" width="40"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0929f3a8-8a2a-48ac-b4a0-9168e62eac90" height="50" width="50" style="margin-right: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/956a522b-24b6-4691-a9c7-05720eb766f0" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/a245dd87-7d45-4e93-834f-11178f6d4b8f" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/901f0dca-3d6b-4c52-b20c-f6d80a0bd982" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/a92f85ba-26d0-42fe-b01f-13883f394eed" height="50" width="50"/>
-  <img src="https://github.com/user-attachments/assets/5587fa40-6e0f-45a5-a484-08922468fc2c" height="50" width="50"/>
+  <img src="https://github.com/user-attachments/assets/0929f3a8-8a2a-48ac-b4a0-9168e62eac90" height="40" width="40" style="margin-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/956a522b-24b6-4691-a9c7-05720eb766f0" height="40" width="40"/>
+  <img src="https://github.com/user-attachments/assets/a245dd87-7d45-4e93-834f-11178f6d4b8f" height="40" width="40"/>
+  <img src="https://github.com/user-attachments/assets/901f0dca-3d6b-4c52-b20c-f6d80a0bd982" height="40" width="40"/>
+  <img src="https://github.com/user-attachments/assets/a92f85ba-26d0-42fe-b01f-13883f394eed" height="40" width="40"/>
+  <img src="https://github.com/user-attachments/assets/d4d6ea30-9f6e-4a69-b888-5385a56b7678" height="40" width="40"/>
 </p>
-
 
 
 
@@ -63,7 +62,9 @@
 
 
 
+
 <p align="center">
+
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pycharm,py,regex,rider,spring,idea,kafka"/>
