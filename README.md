@@ -16,6 +16,8 @@
     <img src="https://github.com/user-attachments/assets/72b3b3ee-96cd-4a5c-84b4-0d2a24d0b74f" width="100" height="auto" alt="Logo 3"/>
     &nbsp;
     <img src="https://github.com/user-attachments/assets/e0f19fa5-d0cb-4ab7-a861-35f0f604920d" width="100" height="auto" alt="Logo 4"/>
+    &nbsp;
+    <img src="https://github.com/user-attachments/assets/3683bf1b-3bc9-4982-9eec-8d584fd02bad" width="100" height="auto" alt="Logo 5"/>
 </p>
 
 
